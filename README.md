@@ -1,0 +1,2 @@
+# EXOCR
+exercice OCR
